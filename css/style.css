@@ -57,6 +57,12 @@ p{
 	color: gray;
 }
 
+#press a img{
+	border: 4px rgb(111,127,122) solid;
+	padding: 2px;
+}
+
+
 #press a img:hover{
 	border: 4px rgb(111,127,122) solid;
 	padding: 2px;

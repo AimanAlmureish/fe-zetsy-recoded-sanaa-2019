@@ -58,7 +58,7 @@ p{
 }
 
 #press a img{
-	border: 4px rgb(111,127,122) hidden;
+	border: 4px rgb(111,127,122) solid;
 
 }
 

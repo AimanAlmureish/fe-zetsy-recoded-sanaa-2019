@@ -57,6 +57,6 @@ p{
 	color: gray;
 }
 
-#press a img{
+#press a img:hover{
 	border: 5px rgb(111,127,122) solid;
 }

@@ -34,3 +34,7 @@ h1 a{
 	font-weight: 600;
 	text-decoration: none;
 }
+
+.featured img{
+	border-style: solid;
+}
